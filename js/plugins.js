@@ -24,6 +24,7 @@ var $plugins =
 {"name":"YZ_pintu","status":true,"description":"拼图系统.","parameters":{"拼图胜利开关ID":"55","胜利播放动画ID":"44"}},
 {"name":"MOG_CharacterShadow","status":true,"description":"MOG角色阴影显示[v1.0]","parameters":{"X-Axis":"0","Y-Axis":"-4","Shadow File Name":"Shadow1","Auto Shadow (Events)":"false"}},
 {"name":"YEP_SaveEventLocations","status":true,"description":"v1.06 Enable specified maps to memorize the locations of\nevents when leaving and loading them upon reentering map.","parameters":{}},
-{"name":"PY_AutoSave","status":true,"description":"[v1.5]自动存档","parameters":{"存档位置":"20","调整光标位置":"true","存档文本":"自动存档/autosave","自动存档文本颜色":"6","存档音效":"","音效音量":"50","提示图片":"","提示图片ID":"1","提示图片x坐标":"10","提示图片y坐标":"10","提示图片透明度":"150","提示图片提示时间":"1"}},
-{"name":"YZ_TitleLanguageSwitch","status":true,"description":"v1.0 根据当前语言动态切换标题画面图片","parameters":{"chineseTitleImage":"Title_CN","englishTitleImage":"Title_EN"}}
+{"name":"PY_AutoSave","status":false,"description":"[v1.5]自动存档","parameters":{"存档位置":"20","调整光标位置":"true","存档文本":"自动存档/autosave","自动存档文本颜色":"6","存档音效":"","音效音量":"50","提示图片":"","提示图片ID":"1","提示图片x坐标":"10","提示图片y坐标":"10","提示图片透明度":"150","提示图片提示时间":"1"}},
+{"name":"YZ_TitleLanguageSwitch","status":true,"description":"v1.0 根据当前语言动态切换标题画面图片","parameters":{"chineseTitleImage":"Title_CN","englishTitleImage":"Title_EN"}},
+{"name":"Galv_ScreenZoom","status":true,"description":"GV屏幕镜头缩放[v.1.1]","parameters":{"Battle Zoom":"1"}}
 ];
