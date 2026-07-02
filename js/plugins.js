@@ -20,11 +20,12 @@ var $plugins =
 {"name":"OggOnly","status":true,"description":"Use only ogg files to play the audio.","parameters":{"deleteM4a":"false"}},
 {"name":"TitleCommandPosition","status":true,"description":"Changes the position of the title command window.","parameters":{"Offset X":"250","Offset Y":"50","Width":"150","Background":"2"}},
 {"name":"loadingchange2","status":true,"description":"随机加载图","parameters":{}},
-{"name":"aligncenter","status":false,"description":"对话框文字居中居右对齐插件","parameters":{}},
 {"name":"YZ_pintu","status":true,"description":"拼图系统.","parameters":{"拼图胜利开关ID":"55","胜利播放动画ID":"44"}},
 {"name":"MOG_CharacterShadow","status":true,"description":"MOG角色阴影显示[v1.0]","parameters":{"X-Axis":"0","Y-Axis":"-4","Shadow File Name":"Shadow1","Auto Shadow (Events)":"false"}},
 {"name":"YEP_SaveEventLocations","status":true,"description":"v1.06 Enable specified maps to memorize the locations of\nevents when leaving and loading them upon reentering map.","parameters":{}},
-{"name":"PY_AutoSave","status":false,"description":"[v1.5]自动存档","parameters":{"存档位置":"20","调整光标位置":"true","存档文本":"自动存档/autosave","自动存档文本颜色":"6","存档音效":"","音效音量":"50","提示图片":"","提示图片ID":"1","提示图片x坐标":"10","提示图片y坐标":"10","提示图片透明度":"150","提示图片提示时间":"1"}},
 {"name":"YZ_TitleLanguageSwitch","status":true,"description":"v1.0 根据当前语言动态切换标题画面图片","parameters":{"chineseTitleImage":"Title_CN","englishTitleImage":"Title_EN"}},
-{"name":"Galv_ScreenZoom","status":true,"description":"GV屏幕镜头缩放[v.1.1]","parameters":{"Battle Zoom":"1"}}
+{"name":"Galv_ScreenZoom","status":true,"description":"GV屏幕镜头缩放[v.1.1]","parameters":{"Battle Zoom":"1"}},
+{"name":"YEP_FootstepSounds+DSmodi","status":false,"description":"【YEP❀实用类】脚步声系统（频率控制修正）|YEP_FootstepSounds.js","parameters":{"---Default---":"","Default Sound":"fstp_boot-on-concreate","Default Volume":"10","Default Pitch":"150","---Player Settings---":"","Player Enable":"true","Player Volume":"1.00","Player Pitch":"1.00","Player Frequency":"1","---Event Settings---":"","Event Enable":"true","Event Volume":"1.00","Distance Volume":"-0.10","Event Pitch":"1.00","Distance Pitch":"-0.00","Distance Pan":"10","Event Frequency":"1"}},
+{"name":"FilterController","status":true,"description":"滤镜控制器","parameters":{"Use Decimal in Variables":"true","displacementImage":"DisplacementMap","enabledAll-Settings":"","enabledAll-ShowInOptionMenu":"false","enabledAll-Text":"滤镜效果","enabledAll-DefaultValue":"true"}},
+{"name":"YEP_EventChasePlayer","status":false,"description":"YEP事件追逐 解密推荐 v1.05","parameters":{"Sight Lock":"300","See Player":"true","Alert Timer":"120","Alert Balloon":"1","Alert Sound":"","Alert Common Event":"0","Return After":"true","Return Wait":"180"}}
 ];
